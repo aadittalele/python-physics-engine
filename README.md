@@ -1,4 +1,4 @@
-# physics-engine
+# About
 This program uses simple Newtonian physics to simulate celestial bodies in space.
 
 # Controls
